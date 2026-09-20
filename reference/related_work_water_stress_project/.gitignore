@@ -1,0 +1,12 @@
+.venv/
+outputs/
+outputs_data/
+outputs_pinn/
+outputs_augmentation_benchmark/
+outputs_ceiling_strategies/
+outputs_explainability/
+outputs_mlp_tuning*/
+outputs_mlp_round3*/
+__pycache__/
+*.pyc
+data.xlsx

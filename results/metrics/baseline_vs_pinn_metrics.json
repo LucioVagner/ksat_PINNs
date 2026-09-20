@@ -1,0 +1,15 @@
+{
+  "n_treino": 338,
+  "n_validacao": 72,
+  "n_teste": 72,
+  "baseline": {
+    "r2_teste": 0.6242973965366707,
+    "rmse_teste_log10": 0.4844640841564494,
+    "mae_teste_log10": 0.35613520453025227
+  },
+  "pinn": {
+    "r2_teste": 0.625812583405069,
+    "rmse_teste_log10": 0.483486189397593,
+    "mae_teste_log10": 0.35521467577900967
+  }
+}

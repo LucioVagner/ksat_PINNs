@@ -1,0 +1,802 @@
+[
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "baseline",
+    "seed": 0,
+    "n_test": 169,
+    "rmse": 0.615377487394456,
+    "r2": -0.22476770071864505
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "baseline",
+    "seed": 1,
+    "n_test": 169,
+    "rmse": 0.6996561355552866,
+    "r2": -0.58321468772627
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "baseline",
+    "seed": 2,
+    "n_test": 169,
+    "rmse": 0.6117004165147851,
+    "r2": -0.21017469833068003
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "baseline",
+    "seed": 3,
+    "n_test": 169,
+    "rmse": 0.6922134951864849,
+    "r2": -0.5497107301911535
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "baseline",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.6488198923709008,
+    "r2": 0.30096989082971914
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "baseline",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.6184511170745531,
+    "r2": 0.36487628993781407
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "baseline",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.7005726992917949,
+    "r2": 0.1850067951786254
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "baseline",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.7128260129741005,
+    "r2": 0.15624832286407342
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "baseline",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.7993573507073668,
+    "r2": -0.4761382251514734
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "baseline",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.8532930855293674,
+    "r2": -0.6820601945861533
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "baseline",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 1.078216197644909,
+    "r2": -1.685695578611143
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "baseline",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 1.0630871624514178,
+    "r2": -1.6108554522226792
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "baseline",
+    "seed": 0,
+    "n_test": 24,
+    "rmse": 1.6207294239407772,
+    "r2": -3.8903276075522824
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "baseline",
+    "seed": 1,
+    "n_test": 24,
+    "rmse": 1.3946858030510754,
+    "r2": -2.621343159983248
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "baseline",
+    "seed": 2,
+    "n_test": 24,
+    "rmse": 1.433433695954581,
+    "r2": -2.8253584736239654
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "baseline",
+    "seed": 3,
+    "n_test": 24,
+    "rmse": 1.125429620954973,
+    "r2": -1.3580532240552339
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "baseline",
+    "seed": 0,
+    "n_test": 89,
+    "rmse": 1.383570010879319,
+    "r2": -3.8686710339103367
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "baseline",
+    "seed": 1,
+    "n_test": 89,
+    "rmse": 1.907784403819166,
+    "r2": -8.256924876512214
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "baseline",
+    "seed": 2,
+    "n_test": 89,
+    "rmse": 1.7622443411625492,
+    "r2": -6.898423213332747
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "baseline",
+    "seed": 3,
+    "n_test": 89,
+    "rmse": 1.5337157101091943,
+    "r2": -4.982709057614398
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono",
+    "seed": 0,
+    "n_test": 169,
+    "rmse": 0.6087445080040913,
+    "r2": -0.19850714781619883
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono",
+    "seed": 1,
+    "n_test": 169,
+    "rmse": 0.6942074055159281,
+    "r2": -0.5586514242981899
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono",
+    "seed": 2,
+    "n_test": 169,
+    "rmse": 0.6083451859881573,
+    "r2": -0.19693527879027872
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono",
+    "seed": 3,
+    "n_test": 169,
+    "rmse": 0.6838492918252523,
+    "r2": -0.512485846453846
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.6492921206596347,
+    "r2": 0.2999519753048713
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.6151183137654588,
+    "r2": 0.37170314765647106
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.6941429062524822,
+    "r2": 0.1998980132536602
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.7072709489102994,
+    "r2": 0.16934782045614072
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.7863756927896748,
+    "r2": -0.428582225248028
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.8456228406139263,
+    "r2": -0.6519560563446587
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 1.0568237297960732,
+    "r2": -1.5801811212569512
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 1.0391817833739332,
+    "r2": -1.4947563154746262
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono",
+    "seed": 0,
+    "n_test": 24,
+    "rmse": 1.6196257893271944,
+    "r2": -3.8836697445529564
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono",
+    "seed": 1,
+    "n_test": 24,
+    "rmse": 1.4281900599973876,
+    "r2": -2.7974226174653625
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono",
+    "seed": 2,
+    "n_test": 24,
+    "rmse": 1.4276493821479908,
+    "r2": -2.7945479389344814
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono",
+    "seed": 3,
+    "n_test": 24,
+    "rmse": 1.123457900744608,
+    "r2": -1.3497979795039545
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono",
+    "seed": 0,
+    "n_test": 89,
+    "rmse": 1.3776347193481944,
+    "r2": -3.826989008368219
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono",
+    "seed": 1,
+    "n_test": 89,
+    "rmse": 1.8077131148032715,
+    "r2": -7.311265744842988
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono",
+    "seed": 2,
+    "n_test": 89,
+    "rmse": 1.7388918633019745,
+    "r2": -6.690477426057786
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono",
+    "seed": 3,
+    "n_test": 89,
+    "rmse": 1.5280288547213652,
+    "r2": -4.938424807876619
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "ptf",
+    "seed": 0,
+    "n_test": 169,
+    "rmse": 0.7802141498392993,
+    "r2": -0.9687844065933675
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "ptf",
+    "seed": 1,
+    "n_test": 169,
+    "rmse": 0.936074649990148,
+    "r2": -1.8339454389442018
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "ptf",
+    "seed": 2,
+    "n_test": 169,
+    "rmse": 1.2459295844620764,
+    "r2": -4.02062186039591
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "ptf",
+    "seed": 3,
+    "n_test": 169,
+    "rmse": 0.8339082020697501,
+    "r2": -1.2490908937139666
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "ptf",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.5974417322386069,
+    "r2": 0.4072948781298579
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "ptf",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.5991002991501134,
+    "r2": 0.4039994751881625
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "ptf",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.611349375306662,
+    "r2": 0.3793789313334709
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "ptf",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.6873500599879291,
+    "r2": 0.21548090426300426
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "ptf",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.6590035703222679,
+    "r2": -0.0032764442206076883
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "ptf",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.840643181702268,
+    "r2": -0.632557439456936
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "ptf",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.6435881670611369,
+    "r2": 0.0431118379088824
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "ptf",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.8935333710201657,
+    "r2": -0.8444489281138332
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "ptf",
+    "seed": 0,
+    "n_test": 24,
+    "rmse": 1.364528727846608,
+    "r2": -2.4664288246476413
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "ptf",
+    "seed": 1,
+    "n_test": 24,
+    "rmse": 1.409718056990645,
+    "r2": -2.6998272415363322
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "ptf",
+    "seed": 2,
+    "n_test": 24,
+    "rmse": 1.4973335746286411,
+    "r2": -3.174015391719503
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "ptf",
+    "seed": 3,
+    "n_test": 24,
+    "rmse": 0.8520557379539668,
+    "r2": -0.3516147775005818
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "ptf",
+    "seed": 0,
+    "n_test": 89,
+    "rmse": 1.4067384077207437,
+    "r2": -4.033091677529286
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "ptf",
+    "seed": 1,
+    "n_test": 89,
+    "rmse": 1.8994309081886318,
+    "r2": -8.176036924577108
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "ptf",
+    "seed": 2,
+    "n_test": 89,
+    "rmse": 1.8509042684119454,
+    "r2": -7.713167542303637
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "ptf",
+    "seed": 3,
+    "n_test": 89,
+    "rmse": 1.487016932047668,
+    "r2": -4.623930932121227
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono+ptf",
+    "seed": 0,
+    "n_test": 169,
+    "rmse": 0.7764467527451367,
+    "r2": -0.9498170882896304
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono+ptf",
+    "seed": 1,
+    "n_test": 169,
+    "rmse": 1.3108978755767757,
+    "r2": -4.557868096698506
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono+ptf",
+    "seed": 2,
+    "n_test": 169,
+    "rmse": 1.2439593656943209,
+    "r2": -4.004755951877553
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "mono+ptf",
+    "seed": 3,
+    "n_test": 169,
+    "rmse": 0.8309907135255401,
+    "r2": -1.2333812062114382
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono+ptf",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.5964983145664995,
+    "r2": 0.40916527641606515
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono+ptf",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.6121023497741391,
+    "r2": 0.37784920178055437
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono+ptf",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.610767685556188,
+    "r2": 0.38055939272548567
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "mono+ptf",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.6760884047301532,
+    "r2": 0.24097768444758005
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono+ptf",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.6498472868541653,
+    "r2": 0.024409189687854993
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono+ptf",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.791624564896184,
+    "r2": -0.44771677032451174
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono+ptf",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.6599212132966269,
+    "r2": -0.006072455078574679
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "mono+ptf",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.8796332224167899,
+    "r2": -0.7875093736725554
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono+ptf",
+    "seed": 0,
+    "n_test": 24,
+    "rmse": 1.2601356765976968,
+    "r2": -1.9563206380965639
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono+ptf",
+    "seed": 1,
+    "n_test": 24,
+    "rmse": 1.4883484356902277,
+    "r2": -3.124071167815009
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono+ptf",
+    "seed": 2,
+    "n_test": 24,
+    "rmse": 1.4932855115405375,
+    "r2": -3.151476876968359
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "mono+ptf",
+    "seed": 3,
+    "n_test": 24,
+    "rmse": 0.8518950818813937,
+    "r2": -0.3511051285641702
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono+ptf",
+    "seed": 0,
+    "n_test": 89,
+    "rmse": 1.4004124076420772,
+    "r2": -3.987926565690749
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono+ptf",
+    "seed": 1,
+    "n_test": 89,
+    "rmse": 2.7876610328303872,
+    "r2": -18.764602292535137
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono+ptf",
+    "seed": 2,
+    "n_test": 89,
+    "rmse": 1.8255976847019628,
+    "r2": -7.476533908363637
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "mono+ptf",
+    "seed": 3,
+    "n_test": 89,
+    "rmse": 1.4850876390959344,
+    "r2": -4.609347141704852
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "full",
+    "seed": 0,
+    "n_test": 169,
+    "rmse": 0.7764467066569035,
+    "r2": -0.9498168568156196
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "full",
+    "seed": 1,
+    "n_test": 169,
+    "rmse": 1.2955558562744323,
+    "r2": -4.428536969988197
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "full",
+    "seed": 2,
+    "n_test": 169,
+    "rmse": 1.24395932401664,
+    "r2": -4.004755616518338
+  },
+  {
+    "fonte": "Miguel - Sanga Ellert",
+    "strategy": "full",
+    "seed": 3,
+    "n_test": 169,
+    "rmse": 0.8309907515688189,
+    "r2": -1.2333814107026422
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "full",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.5964983043116614,
+    "r2": 0.4091652967310071
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "full",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.6121023477009137,
+    "r2": 0.37784920599507477
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "full",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.6107676776314085,
+    "r2": 0.38055940880010886
+  },
+  {
+    "fonte": "(Dongli et al., 2017) Bacia Pelotas",
+    "strategy": "full",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.6761078230411882,
+    "r2": 0.24093408321742937
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "full",
+    "seed": 0,
+    "n_test": 100,
+    "rmse": 0.6498473278296767,
+    "r2": 0.024409066657923528
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "full",
+    "seed": 1,
+    "n_test": 100,
+    "rmse": 0.7916245018584988,
+    "r2": -0.4477165397588758
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "full",
+    "seed": 2,
+    "n_test": 100,
+    "rmse": 0.6613373208341403,
+    "r2": -0.010394896541450649
+  },
+  {
+    "fonte": "Luana - Bacia Fragata",
+    "strategy": "full",
+    "seed": 3,
+    "n_test": 100,
+    "rmse": 0.8796332802546231,
+    "r2": -0.787509608737966
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "full",
+    "seed": 0,
+    "n_test": 24,
+    "rmse": 1.2601356982532252,
+    "r2": -1.9563207397057587
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "full",
+    "seed": 1,
+    "n_test": 24,
+    "rmse": 1.7042961185876215,
+    "r2": -4.407630767130815
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "full",
+    "seed": 2,
+    "n_test": 24,
+    "rmse": 1.4932855674242331,
+    "r2": -3.1514771876924277
+  },
+  {
+    "fonte": "Umuarama",
+    "strategy": "full",
+    "seed": 3,
+    "n_test": 24,
+    "rmse": 0.8518952219500466,
+    "r2": -0.35110557286181887
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "full",
+    "seed": 0,
+    "n_test": 89,
+    "rmse": 1.4004124774025088,
+    "r2": -3.9879270626299617
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "full",
+    "seed": 1,
+    "n_test": 89,
+    "rmse": 2.853775439229923,
+    "r2": -19.713225960578097
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "full",
+    "seed": 2,
+    "n_test": 89,
+    "rmse": 1.825597690050891,
+    "r2": -7.476533958035448
+  },
+  {
+    "fonte": "Tres Passos",
+    "strategy": "full",
+    "seed": 3,
+    "n_test": 89,
+    "rmse": 1.4850875834290949,
+    "r2": -4.609346721184725
+  }
+]

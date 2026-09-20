@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+openpyxl>=3.1
+matplotlib>=3.8
+xgboost>=2.0
+optuna>=3.6
+lightgbm>=4.0
+shap>=0.45
+lime>=0.2
+fpdf2>=2.8
