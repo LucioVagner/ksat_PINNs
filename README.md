@@ -53,15 +53,6 @@ Cada script salva seus resultados em `results/figures/` e `results/metrics/`.
   leave-one-source-out. O termo "ptf" piora o resultado porque usa
   coeficientes de exemplo não calibrados para este dataset.
 
-## Próximos passos em aberto
-
-- Calibrar os coeficientes da fórmula PTF a partir dos próprios dados, em vez
-  de usar os valores de exemplo do colega.
-- Investigar por que "Tres Passos" e "Umuarama" generalizam pior que as
-  demais fontes.
-- Reportar tanto a validação "dentro do domínio" quanto "entre fontes" no
-  artigo, como medidas complementares de desempenho.
-
 ## Contexto físico usado como restrição
 
 Lei de Darcy (fluxo saturado): `q = -Ksat · dh/dz`. Combinada com a equação
